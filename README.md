@@ -44,7 +44,7 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 
 * [The Ultrasound Image of the Tongue Surface as Input for Man/Machine Interface.](https://rauterberg.employee.id.tue.nl/conferences/INTERACT2003/INTERACT2003-p825.pdf) Konrad Lukaszewicz (2014)
 
-*[Fully-automated tongue detection in ultrasound images](https://pubs.aip.org/asa/jasa/article/144/3_Supplement/1905/705854/Fully-automated-tongue-detection-in-ultrasound) Elham Karimi; Lucie Menard; Catherine Laporte (2018)
+* [Fully-automated tongue detection in ultrasound images](https://pubs.aip.org/asa/jasa/article/144/3_Supplement/1905/705854/Fully-automated-tongue-detection-in-ultrasound) Elham Karimi, Lucie Menard, Catherine Laporte (2018)
 
 
 #### Tutorials

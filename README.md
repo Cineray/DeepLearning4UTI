@@ -70,6 +70,13 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [The Key Laboratory of Cognitive Computing and Applications, Tianjin University, China](http://cs.tju.edu.cn/csweben/researchdetail?item=KLCCA)
 
 
+## Citation
+
+If you find this repository helpful in your research, please consider citing our work:
+
+@article{xia2024systematic, title={A systematic review of the application of machine learning techniques to ultrasound tongue imaging analysis}, author={Xia, Zhen and Yuan, Ruicheng and Cao, Yuan and Sun, Tao and Xiong, Yunsheng and Xu, Kele}, journal={The Journal of the Acoustical Society of America}, volume={156}, number={3}, pages={1796--1819}, year={2024}, publisher={Acoustical Society of America} }
+
+
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.

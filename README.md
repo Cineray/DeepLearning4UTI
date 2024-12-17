@@ -76,11 +76,17 @@ If you find this repository helpful in your research, please consider citing our
 
  title={A systematic review of the application of machine learning techniques to ultrasound tongue imaging analysis},
   author={Xia, Zhen and Yuan, Ruicheng and Cao, Yuan and Sun, Tao and Xiong, Yunsheng and Xu, Kele},
+  
   journal={The Journal of the Acoustical Society of America},
+  
   volume={156},
+  
   number={3},
+  
   pages={1796--1819},
+  
   year={2024},
+  
   publisher={Acoustical Society of America}
 }
 
